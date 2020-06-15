@@ -19,7 +19,7 @@
     "keccak256": "^1.0.0",
     "mock-http-server": "^1.4.2",
     "superagent": "^4.1.0",
-    "tweetnacl": "^1.0.1"
+    "tweetnacl": "^1.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.6.0",
