@@ -18,7 +18,7 @@
     "js-yaml": ">=3.13.1",
     "keccak256": "^1.0.0",
     "mock-http-server": "^1.4.2",
-    "superagent": "^4.1.0",
+    "superagent": "^7.0.2",
     "tweetnacl": "^1.0.1"
   },
   "devDependencies": {
